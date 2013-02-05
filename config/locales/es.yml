@@ -1079,8 +1079,8 @@ es:
   spree: 
     date: Date
     date_picker: 
-      format: ! '%Y/%m/%d'
-      js_format: 'yy/mm/dd'
+      format: '%d/%m/%Y'
+      js_format: 'dd/mm/yy'
     time: Time
   spree_alert_checking: "Check for Spree security and release alerts"
   spree_alert_not_checking: "Not checking for Spree security and release alerts"
