@@ -231,7 +231,7 @@ es:
   add_state: "Añadir provincia"
   add_to_cart: "Añadir al carrito"
   add_zone: "Añadir zona"
-  additional_item: Costo adicional por elemento
+  additional_item: Coste adicional por elemento
   address: Dirección
   address_information: "Información de la Dirección"
   adjustment: Ajuste
@@ -347,7 +347,7 @@ es:
   continue: Continuar
   continue_shopping: "Seguir comprando"
   copy_all_mails_to: Copiar todos los correos a
-  cost_price: "Precio del Costo"
+  cost_price: "Precio de Coste"
   count_of_reduced_by: "cantidad de '%{name}' reducida en %{count}"
   country: País
   country_based: "País base"
@@ -366,13 +366,13 @@ es:
   credit_owed: "Crédito disponible"
   credit_total: Crédito Total
   credits: Créditos
-  currency: Currency
-  currency_settings: "Currency Settings"
-  currency_symbol_position: "Put currency symbol before or after dollar amount?"
+  currency: Moneda
+  currency_settings: "Configuración de Moneda"
+  currency_symbol_position: "¿Colocar el simbolo de moneda antes o después del importe?"
   current: Actual
   customer: Cliente
   customer_details: "Detalles del cliente"
-  customer_details_updated: "The customer's details have been updated."
+  customer_details_updated: "Los detalles del cliente han sido actualizados"
   customer_search: "Búsqueda de clientes"
   cut: Cut
   date_completed: Date Completed
@@ -396,7 +396,7 @@ es:
   discount_amount: "Importe del descuento"
   dismiss_banner: "No. Thanks! I'm not interested, do not display this message again"
   display: Mostrar
-  display_currency: "Display currency"
+  display_currency: "Mostrar Moneda"
   dollar_amounts_displayed_as: "Dollar amounts displayed as %{example}"
   edit: Editar
   edit_general_settings: "Editar configuración general"
@@ -468,7 +468,7 @@ es:
   final_confirmation: "Confirmación Final"
   finalize: Finalizar
   finalized_payments: pagos finalizados
-  first_item: Costo del primer elemento
+  first_item: Coste del primer elemento
   first_name: Nombre
   first_name_begins_with: "Nombre comienza por"
   flat_percent: Porcentaje simple
